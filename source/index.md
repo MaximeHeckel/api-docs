@@ -24,6 +24,8 @@ includes:
   - volume
   - webhooks
   - tutum-events
+  - logs
+  - exec
   - errors
 
 search: true
